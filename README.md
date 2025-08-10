@@ -36,4 +36,4 @@ DSP48A1.do: QuestaSim/ModelSim simulation automation script.
 
 
 ## Block Diagram
-![Block Diagram](Block Diagram.png)
+![Block Diagram](https://github.com/HassanEbrahim10/Spartan-6-FPGA-DSP48A1-Slice/blob/ecfdebcf428c5689303fbf2703405fb385c3a0a9/Block%20Diagram.png)
